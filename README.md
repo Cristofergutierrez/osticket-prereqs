@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- In Microsoft Azure reate a virtual machine running Windows 10 and acces it using Remote Desktop Connection
+- In Microsoft Azure create a virtual machine running Windows 10 and acces it using Remote Desktop Connection
 - Item 2
 - Item 3
 - Item 4
